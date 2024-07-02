@@ -1,3 +1,3 @@
 # JKX-app 
 
-## ТЕСТОВЫЙ ПОЛЬЗОВАТЕЛЬ test@test.ru : test@test.ru
+## ТЕСТОВЫЙ ПОЛЬЗОВАТЕЛЬ test : Test1223
